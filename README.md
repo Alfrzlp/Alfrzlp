@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Ridson Alfarizal
-<img src="https://www.codewars.com/users/Alfrzlp/badges/large"/>
+
+### Education
+- SMAN 1 Krian, Sidoarjo
+- Politeknik Statistika STIS
 
 <!---
 Alfrzlp/Alfrzlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
